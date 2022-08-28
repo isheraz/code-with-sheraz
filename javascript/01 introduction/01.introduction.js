@@ -23,8 +23,8 @@ const js = {
 }
 
 // Most Common Way
-// console.log('most common way using the external file');
-// console.log(js);
+console.log('most common way using the external file');
+console.log(js);
 
 // For Debugging
 // browser inspector 
