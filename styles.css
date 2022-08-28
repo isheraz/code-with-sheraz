@@ -1,0 +1,22 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.center-align {
+    width: 400px;
+    height: 200px;
+    margin: auto;
+
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    display: block;
+    width: 100%;
+}
+
+h3{
+    padding-top: 10%;
+}
